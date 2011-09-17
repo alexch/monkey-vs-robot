@@ -1,5 +1,6 @@
 # Monkey vs. Robot
-## or, You Are Not An Object-Oriented Programmer
+
+or, You Are Not An Object-Oriented Programmer
 
 A lightning talk from GoGaRuCo 2011
 
