@@ -1,0 +1,8 @@
+{
+  "name": "Monkey vs. Robot",
+  "description": "Monkey vs. Robot, or You Are Not An Object Oriented Programmer",
+  "sections": [
+    "000_setup.md",
+    "monkey-vs-robot.md"
+  ]
+}
