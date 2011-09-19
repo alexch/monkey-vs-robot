@@ -4,9 +4,11 @@ or, You Are Not An Object-Oriented Programmer
 
 A lightning talk from GoGaRuCo 2011
 
+Video at <http://www.justin.tv/alexchaffee/b/295449071>
+
 # Instructions
 
-Alex has been improving showoff; until his latest patches get accepted and released, you will have to download and install his version, as follows:
+Alex has been improving Scott Chacon's Showoff app; until his latest patches get accepted and released, you will have to download and install his version, as follows:
 
     git clone git://github.com/alexch/showoff.git
     cd showoff
