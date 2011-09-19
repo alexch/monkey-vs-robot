@@ -6,6 +6,10 @@ A lightning talk from GoGaRuCo 2011
 
 Video at <http://www.justin.tv/alexchaffee/b/295449071>
 
+# Abstract
+
+You are not an object-oriented programmer! OK, maybe you are sometimes, but sometimes you only *think* you've got encapsulation, isolation, modularity, inheritance, testability but you really don't! Monkeys play with stuff and solve problems and have lots of fun, but aren't very safe; Robots send messages and accept commands, and are efficient but often difficult.
+
 # Instructions
 
 Alex has been improving Scott Chacon's Showoff app; until his latest patches get accepted and released, you will have to download and install his version, as follows:
