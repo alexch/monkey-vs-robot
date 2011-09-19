@@ -12,7 +12,7 @@ You are not an object-oriented programmer! OK, maybe you are sometimes, but some
 
 # Instructions
 
-Alex has been improving Scott Chacon's Showoff app; until his latest patches get accepted and released, you will have to download and install his version, as follows:
+Alex has been working on Scott Chacon's Showoff app; you will have to download and install his version, as follows:
 
     git clone git://github.com/alexch/showoff.git
     cd showoff
