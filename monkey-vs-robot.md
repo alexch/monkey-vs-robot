@@ -255,20 +255,20 @@ Everyone who's used a good API knows how great it is; everyone who's created an 
         end
       end
     end
-      
-# Unobtrusive Ruby
 
-* Less cranky cousin of this talk
-  * <http://robots.thoughtbot.com/post/10125070413/unobtrusive-ruby>
+# More Like This
 
-      
+  * [Unobtrusive Ruby](http://robots.thoughtbot.com/post/10125070413/unobtrusive-ruby)  
+  * [Why You Should Care About Encapsulation](http://gmoeck.github.com/2011/09/20/why-you-should-care-about-encapsulation.html)
+  * [Lovely Demeter, Meter Maid](http://pivots.pivotallabs.com/users/alex/blog/articles/273-lovely-demeter-meter-maid)
+
 # Alex Who?
 
-* @alexch
-* TestFirst.org
-* Erector
-* Wrong
-* Whos
+* [@alexch](http://twitter.com/alexch)
+* [TestFirst.org](http://testfirst.org)
+* [Erector](http://erector.rubyforge.org)
+* [Wrong](http://github.com/sconover/wrong)
+* [Whos](http://github.com/alexch/whos)
 
 
 
